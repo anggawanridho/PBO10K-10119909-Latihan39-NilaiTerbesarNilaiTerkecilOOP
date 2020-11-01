@@ -8,6 +8,7 @@ import java.util.Scanner;
  * KELAS    : IF 10K
  * NIM      : 10119909
  */
+
 public class Penentu {
     Scanner scanner = new Scanner(System.in);
     private int i, banyak_mahasiswa, terbesar, terkecil;

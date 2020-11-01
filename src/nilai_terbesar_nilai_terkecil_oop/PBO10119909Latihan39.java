@@ -2,6 +2,14 @@ package nilai_terbesar_nilai_terkecil_oop;
 
 import java.util.Scanner;
 
+/**
+ * @author
+ * NAMA     : Muhammad Anggawan Ridho Islami
+ * KELAS    : IF 10K
+ * NIM      : 10119909
+ */
+
+
 public class PBO10119909Latihan39 {
 
     public static void main(String[] args) {
